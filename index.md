@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My GEOG594 Webpage
+
+### Purpose Statement:
+> The purpose of this webpage is to satisfy the requirements to lab #1 from GEOG594. what follows is the default settings upon creation of a new webpage on GitHub. Enjoy
+> -Joey Erece :fire:
 
 You can use the [editor on GitHub](https://github.com/Joey-Erece/Joey-Erece.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
