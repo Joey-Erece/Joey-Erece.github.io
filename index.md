@@ -1,4 +1,4 @@
-## Welcome to My GEOG594 Webpage
+## Welcome to My GEOG594 Webpage!
 
 ### Purpose Statement:
 > The purpose of this webpage is to satisfy the requirements to lab #1 from GEOG594. what follows is the default settings upon creation of a new webpage on GitHub. Enjoy
